@@ -20,7 +20,7 @@ A simple 3D shooting game built with Unity 6.
 
 Download the Windows build (.exe) and play instantly:
 
-👉 [Download Game (Google Drive)](https://drive.google.com/file/d/1A9UVkEOzN10F3nVJDP-Ds73te5luRNUJ/view?usp=drive_link)
+👉 [Download Game (.exe on GitHub Releases)](https://github.com/xuzhihuiCSY/Mini3DShooter/releases/latest)
 
 1. Download and unzip the file
 2. Run `Mini3DShooter.exe`
